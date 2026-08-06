@@ -2,7 +2,7 @@
 
 **I do stuff that I like, pretty much.**
 
-If you want my opinion unprofessional opinion on what I do, I simply keep up with papers, get excited and try to break or find new stuff.
+If you want my unprofessional opinion on what I do, I simply keep up with papers, get excited, and try to break or find new stuff.
 
 If you want the more professional summary of my CV, you can find it down here. It is LLM-generated and reviewed by me, sorry but there is never enough time...
 

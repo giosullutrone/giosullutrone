@@ -4,7 +4,7 @@
 
 If you want my unprofessional opinion on what I do, I simply keep up with papers, get excited, and try to break or find new stuff.
 
-If you want the more professional summary of my CV, you can find it down here. It is LLM-generated and reviewed by me, sorry but there is never enough time...
+If you want the more professional summary of my CV, you can find it down here. 
 
 I am a PhD researcher in Information and Communication Technologies at the [University of Modena and Reggio Emilia](https://www.unimore.it/). My research examines how LLM systems behave when a request involves safety boundaries, incomplete information, sensitive data, or external evidence. I am particularly interested in evaluations that expose behaviour that are commonly given less attention: whether a refusal is justified, whether retrieval changes the model's decision, and whether an agent can recognize what it needs from a user before acting.
 

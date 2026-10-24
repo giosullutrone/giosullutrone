@@ -1,14 +1,10 @@
 # Giovanni Sullutrone
 
-**I do stuff that I like, pretty much.**
+**LLM safety researcher.** I build evaluations of when language models should refuse, ask for clarification or abstain.
 
-If you want my unprofessional opinion on what I do, I simply keep up with papers, get excited, and try to break or find new stuff.
+I am completing a PhD in Information and Communication Technologies at the [University of Modena and Reggio Emilia](https://www.unimore.it/). My research examines how LLM systems behave when a request involves safety boundaries, incomplete information, sensitive data, or external evidence. I am particularly interested in evaluations that expose behaviour that are commonly given less attention: whether a refusal is justified, whether retrieval changes the model's decision, and whether an agent can recognize what it needs from a user before acting.
 
-If you want the more professional summary of my CV, you can find it down here. 
-
-I am a PhD researcher in Information and Communication Technologies at the [University of Modena and Reggio Emilia](https://www.unimore.it/). My research examines how LLM systems behave when a request involves safety boundaries, incomplete information, sensitive data, or external evidence. I am particularly interested in evaluations that expose behaviour that are commonly given less attention: whether a refusal is justified, whether retrieval changes the model's decision, and whether an agent can recognize what it needs from a user before acting.
-
-My PhD is supervised by Prof. Sonia Bergamaschi and is expected to conclude on **31 October 2026**. I have also worked with Dr. Georgia Koutrika at the [DARE Lab](https://darelab.athenarc.gr/) on the evaluation of Text-to-SQL systems.
+My PhD is supervised by Prof. Sonia Bergamaschi. The PhD cycle ends in October 2026, and the defence is expected in early 2027. I have also worked with Dr. Georgia Koutrika at the [DARE Lab](https://darelab.athenarc.gr/) on the evaluation of Text-to-SQL systems.
 
 ## Selected research
 
@@ -18,7 +14,7 @@ My PhD is supervised by Prof. Sonia Bergamaschi and is expected to conclude on *
 
 - **[Sensitive Topics Retrieval in Digital Libraries: A Case Study of ḥadīṯ Collections](https://link.springer.com/chapter/10.1007/978-3-031-72440-4_5)** — Evaluates retrieval over historically sensitive religious documents through questions generated from the collection itself. The results show that modern embedding models can rank sensitive passages lower than comparable non-sensitive ones, making parts of a digital library less visible to researchers. *TPDL 2024.*
 
-- **[ABISS: Evaluating Text-to-SQL Systems Through Agent Interaction](https://arxiv.org/abs/2607.23340)** — Unifies the reasons why a database question may be ambiguous or impossible to answer, then evaluates complete interactions with simulated users. The benchmark shows that agents often recognize that a request is problematic without identifying why, and still struggle to translate useful clarification into the correct SQL query. [Code and benchmark](https://github.com/giosullutrone/ABISS-Evaluating-Text-to-SQL-Systems-Through-Agent-Interaction).
+- **[ABISS: Evaluating Text-to-SQL Systems Through Agent Interaction](https://arxiv.org/abs/2607.23340)** — Unifies the reasons why a database question may be ambiguous or impossible to answer, then evaluates complete interactions with simulated users. The benchmark shows that agents often recognize that a request is problematic without identifying why, and still struggle to translate useful clarification into the correct SQL query. Code and benchmark: [coming soon](https://github.com/giosullutrone/ABISS-Evaluating-Text-to-SQL-Systems-Through-Agent-Interaction).
 
 ## Research methods and tools
 
@@ -28,4 +24,4 @@ I mainly work with **Python, PyTorch, Hugging Face, vLLM, TRL, Docker, and SQL**
 
 ## Contact
 
-[Email](mailto:giovanni.sullutrone@unimore.it) · [ORCID](https://orcid.org/0009-0006-5556-1827) · [ACL Anthology](https://aclanthology.org/people/giovanni-sullutrone/) · [LinkedIn](https://www.linkedin.com/in/giovanni-sullutrone/) · [DARE Lab profile](https://darelab.athenarc.gr/people/giosullutrone/)
+[Website](https://giosullutrone.github.io) · [CV](Giovanni%20Sullutrone%20-%20CV.pdf) · [Email](mailto:giovanni.sullutrone@unimore.it) · [ORCID](https://orcid.org/0009-0006-5556-1827) · [ACL Anthology](https://aclanthology.org/people/giovanni-sullutrone/) · [LinkedIn](https://www.linkedin.com/in/giovanni-sullutrone/) · [DARE Lab profile](https://darelab.athenarc.gr/people/giosullutrone/)

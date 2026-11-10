@@ -24,4 +24,4 @@ I mainly work with **Python, PyTorch, Hugging Face, vLLM, TRL, Docker, and SQL**
 
 ## Contact
 
-[Website](https://giosullutrone.github.io) · [CV](Giovanni%20Sullutrone%20-%20CV.pdf) · [Email](mailto:giovanni.sullutrone@unimore.it) · [ORCID](https://orcid.org/0009-0006-5556-1827) · [ACL Anthology](https://aclanthology.org/people/giovanni-sullutrone/) · [LinkedIn](https://www.linkedin.com/in/giovanni-sullutrone/) · [DARE Lab profile](https://darelab.athenarc.gr/people/giosullutrone/)
+[Website](https://giosullutrone.github.io) · [CV (academic)](Giovanni%20Sullutrone%20-%20CV.pdf) · [CV (industry)](Giovanni%20Sullutrone%20-%20CV%20-%20industry.pdf) · [Email](mailto:giovanni.sullutrone@unimore.it) · [ORCID](https://orcid.org/0009-0006-5556-1827) · [ACL Anthology](https://aclanthology.org/people/giovanni-sullutrone/) · [LinkedIn](https://www.linkedin.com/in/giovanni-sullutrone/) · [DARE Lab profile](https://darelab.athenarc.gr/people/giosullutrone/)
